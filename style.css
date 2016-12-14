@@ -1,0 +1,69 @@
+	#pass{
+		font-size: 25px;
+		height: 30px;
+		margin: 20px 0px 20px 0px;
+		width: 95%;
+	}
+	.hasil{
+		font-size: 20px;
+		color: blue;
+	}
+	.tombol{
+		height: 40px;
+		width: 100px;
+		margin: 10px 0px 30px 0px;
+		color: red;
+		font-weight: bold;
+	}
+
+	h2{
+		color: #ffffff;
+		text-align: center;
+		background-color: #53bd84;
+		padding: 20px 20px;
+		margin: -10px -10px;
+		border-radius: 8px;
+	}
+	.kotak{
+		width: 50%;
+		margin: 0 auto;
+		background-color: #cdcdcd;
+		padding: 15px;		
+		border-radius: 8px;
+	}
+
+	.lbox{
+		width: 40%;
+		margin: 0 auto;
+		background-color: #cdcdcd;
+		padding: 15px;		
+		border-radius: 8px;
+		text-align: center;
+	}
+
+	#password{
+		font-size: 25px;
+		height: 30px;
+		margin: 5px 0px 20px 0px;
+		width: 95%;
+	}
+
+	#user{
+		font-size: 25px;
+		height: 30px;
+		margin: 20px 0px 0px 0px;
+		width: 95%;
+	}
+
+	#utama{
+		width: 90%;
+		margin: 0 auto;
+		background-color: linear-gradient(#c0c0c0,#ffffff,#c0c0c0);
+		padding: 15px;
+		border-radius: 8px;
+	}
+
+	#isi{
+		margin: 30px -10px;
+		font-size: 120%;
+	}
